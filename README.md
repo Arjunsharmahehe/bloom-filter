@@ -29,7 +29,7 @@ pip install bitarray
 ## Usage
 ### Example
 ```python
-from bloom_filter import BloomFilter
+from bloomFilter import BloomFilter
 
 # Initialize Bloom Filter with size 1000 and 5 hash functions
 bf = BloomFilter(1000, 5)
